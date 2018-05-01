@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Daniel Bahl
+description: Hi, I'm Daniel Bahl. I’m a coder, teacher, father and husband located in Aarhus, Denmark.
+meta_description: "Daniel Bahl's profil on the interwebs"
 
 aboutPage: true
 
@@ -9,15 +9,15 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+#domain_name: 'http://yourblog-domain.com'
+#google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'https://danielbahl.com'
+author:         'Daniel Bahl'
+authorTwitter:  'danielbahl'
 
 permalink:       /:year/:title/
 
