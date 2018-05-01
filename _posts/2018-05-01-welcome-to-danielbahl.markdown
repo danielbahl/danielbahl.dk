@@ -4,7 +4,7 @@ date:   2018-05-01 10:18:00
 description: Welcome to my website
 ---
 
-Hi. Welcome to Daniel Bahl on the **interewebs** 👍 👌
+Hi. Welcome to Daniel Bahl on the **inter-webs** 👍 👌
 
 {% highlight ruby %}
 def print_hi(name)
